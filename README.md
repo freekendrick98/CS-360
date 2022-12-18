@@ -1,5 +1,6 @@
 # CS-360
 -Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
 This application had five goals in mind during development:
 1.Provide a platform to store data
 2.Allow users to add data
